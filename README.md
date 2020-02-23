@@ -4,21 +4,23 @@
 
 ## Analytics
 
-- 📖 [[GUIDE] Instagram Analytics Strategy Guide](https://get.later.com/instagram-analytics-ebook/).
+- 📓 [Instagram Analytics Strategy Guide](https://get.later.com/instagram-analytics-ebook/).
 
 ## Ecommerce
 
 - 📖 [25 Instagram Marketing Tips Your Ecommerce Strategy Can’t Do Without](https://acquireconvert.com/instagram-marketing-tips/).
 
-## General
+## Marketing
 
-- 📖 [[GUIDE] Instagram for Business in 2019](https://get.later.com/instagram-for-business/).
+- 📓 [Instagram for Business in 2019](https://get.later.com/instagram-for-business/).
+
+- 📓 [How to Run Your First Instagram Marketing Campaign](https://later.com/training/instagram-marketing-campaign/).
 
 ## Stories
 
-- 📖 [[GUIDE] How to Plan an Instagram Stories Campaign](https://get.later.com/instagram-stories-campaign/).
+- 📓 [How to Plan an Instagram Stories Campaign](https://get.later.com/instagram-stories-campaign/).
 
 ## Trends
 
-- 📖 [[GUIDE] 20 Creative Trends Shaping Social in 2019](https://get.later.com/creative-social-media-trends-2019/).
+- 📓 [20 Creative Trends Shaping Social in 2019](https://get.later.com/creative-social-media-trends-2019/).
 
