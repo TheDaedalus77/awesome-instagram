@@ -2,6 +2,12 @@
 
 > 👩‍🎓👨‍🎓 Must-read articles, videos and books for Instagram marketers.
 
+```
+📖: Article.
+📓: Guide.
+📺: Videos.
+```
+
 ## Analytics
 
 - 📓 [Instagram Analytics Strategy Guide](https://get.later.com/instagram-analytics-ebook/).
