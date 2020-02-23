@@ -14,6 +14,8 @@
 
 - 📓 [Instagram for Business in 2019](https://get.later.com/instagram-for-business/).
 
+- 📓 [The State of Instagram Marketing in 2018](https://get.later.com/the-state-of-instagram-marketing-2018/).
+
 - 📓 [How to Run Your First Instagram Marketing Campaign](https://later.com/training/instagram-marketing-campaign/).
 
 ## Stories
