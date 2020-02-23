@@ -8,5 +8,9 @@
 
 ## Stories
 
-- 📖 [How to Plan an Instagram Stories Campaign](https://get.later.com/instagram-stories-campaign/).
+- 📖 [[GUIDE] How to Plan an Instagram Stories Campaign](https://get.later.com/instagram-stories-campaign/).
+
+## Trends
+
+- - 📖 [[GUIDE] 20 Creative Trends Shaping Social in 2019](https://get.later.com/creative-social-media-trends-2019/).
 
