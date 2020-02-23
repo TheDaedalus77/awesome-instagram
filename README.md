@@ -22,6 +22,8 @@
 
 - 📓 [How to Run Your First Instagram Marketing Campaign](https://later.com/training/instagram-marketing-campaign/).
 
+- 📓 [Instagram for Business Strategy Guide](https://get.later.com/free-instagram-for-business-guide/).
+
 ## Stories
 
 - 📓 [How to Plan an Instagram Stories Campaign](https://get.later.com/instagram-stories-campaign/).
