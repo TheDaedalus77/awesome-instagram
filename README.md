@@ -10,6 +10,10 @@
 
 - 📖 [25 Instagram Marketing Tips Your Ecommerce Strategy Can’t Do Without](https://acquireconvert.com/instagram-marketing-tips/).
 
+## Hashtags
+
+- 📓 [Instagram Hashtag Strategy Guide](https://later.com/instagram-hashtag-guide/).
+
 ## Influencers
 
 - 📓 [Instagram Influencer Marketing Strategy Guide](https://get.later.com/influencer-marketing-guide/).
