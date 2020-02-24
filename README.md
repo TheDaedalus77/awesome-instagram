@@ -6,6 +6,7 @@
 📖: Article.
 📓: Guide.
 📺: Video.
+📹: Channel.
 ```
 
 ## Analytics
@@ -44,3 +45,6 @@
 
 - 📓 [20 Creative Trends Shaping Social in 2019](https://get.later.com/creative-social-media-trends-2019/).
 
+## YouTube Channels
+
+- 📹 [Vanessa Lau](https://www.youtube.com/channel/UCdOPzgbosSnbfwd9-iXP2NA/videos).
