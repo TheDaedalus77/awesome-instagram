@@ -37,6 +37,8 @@
 
 - 📓 [Instagram for Business Strategy Guide](https://get.later.com/free-instagram-for-business-guide/).
 
+- 📺 [My Instagram Strategy for 2020 (EXPOSED!)](https://www.youtube.com/watch?v=o54OyiwxkDo).
+
 ## Stories
 
 - 📓 [How to Plan an Instagram Stories Campaign](https://get.later.com/instagram-stories-campaign/).
