@@ -5,7 +5,7 @@
 ```
 📖: Article.
 📓: Guide.
-📺: Videos.
+📺: Video.
 ```
 
 ## Analytics
@@ -15,6 +15,8 @@
 ## Ecommerce
 
 - 📖 [25 Instagram Marketing Tips Your Ecommerce Strategy Can’t Do Without](https://acquireconvert.com/instagram-marketing-tips/).
+
+- 📺 [How I Make $1,783/Week on Shopify With FREE Instagram Traffic (2020)](https://www.youtube.com/watch?v=z-5ShVYdsd8).
 
 ## Hashtags
 
