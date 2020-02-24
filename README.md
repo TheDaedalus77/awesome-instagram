@@ -13,11 +13,15 @@
 
 - 📓 [Instagram Analytics Strategy Guide](https://get.later.com/instagram-analytics-ebook/).
 
+## Content
+
+- 📓 [How to Take Gorgeous Instagram Photos with Your Phone](https://later.com/blog/instagram-photos/).
+
 ## Ecommerce
 
 - 📖 [25 Instagram Marketing Tips Your Ecommerce Strategy Can’t Do Without](https://acquireconvert.com/instagram-marketing-tips/).
 
-- 📺 [How I Make $1,783/Week on Shopify With FREE Instagram Traffic (2020)](https://www.youtube.com/watch?v=z-5ShVYdsd8).
+- 📺 [How I Make \$1,783/Week on Shopify With FREE Instagram Traffic (2020)](https://www.youtube.com/watch?v=z-5ShVYdsd8).
 
 ## Hashtags
 
