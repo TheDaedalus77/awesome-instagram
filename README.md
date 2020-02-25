@@ -51,6 +51,8 @@
 
 - 📺 [My Instagram Strategy for 2020 (EXPOSED!)](https://www.youtube.com/watch?v=o54OyiwxkDo)
 
+- 📺 [5 Advanced Instagram Marketing Tips [2020]](https://www.youtube.com/watch?v=jtjo1VvITO8)
+
 ## Stories
 
 - 📓 [How to Plan an Instagram Stories Campaign](https://get.later.com/instagram-stories-campaign/)
