@@ -49,4 +49,6 @@
 
 ## YouTube Channels
 
+- 📹 [Alex Tooby](https://www.youtube.com/channel/UCCPAYZr5GA5Na7KES2qCKWA/videos).
+
 - 📹 [Vanessa Lau](https://www.youtube.com/channel/UCdOPzgbosSnbfwd9-iXP2NA/videos).
