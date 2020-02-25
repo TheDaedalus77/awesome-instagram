@@ -37,6 +37,8 @@
 
 - 📓 [Instagram Influencer Marketing Strategy Guide](https://get.later.com/influencer-marketing-guide/)
 
+- 📺 [Dropshipping Using Instagram Influencers (Free Shopify Traffic)](https://www.youtube.com/watch?v=yBV4KiEZYQM)
+
 ## Marketing
 
 - 📓 [Instagram for Business in 2019](https://get.later.com/instagram-for-business/)
