@@ -11,7 +11,7 @@
 
 ## Advertising
 
-- 📺 [Advanced Instagram Marketing - How To Get Followers, Leads, and Sales](https://www.youtube.com/watch?v=zEFytDFSxWg)
+- 📺 [Advanced Instagram Advertising](https://www.youtube.com/watch?v=u8hnoc0_tlU)
 
 ## Analytics
 
@@ -48,6 +48,8 @@
 - 📓 [How to Run Your First Instagram Marketing Campaign](https://later.com/training/instagram-marketing-campaign/)
 
 - 📓 [Instagram for Business Strategy Guide](https://get.later.com/free-instagram-for-business-guide/)
+
+- 📺 [Advanced Instagram Marketing - How To Get Followers, Leads, and Sales](https://www.youtube.com/watch?v=zEFytDFSxWg)
 
 - 📺 [My Instagram Strategy for 2020 (EXPOSED!)](https://www.youtube.com/watch?v=o54OyiwxkDo)
 
