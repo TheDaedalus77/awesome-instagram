@@ -61,4 +61,6 @@
 
 - 📹 [Alex Tooby](https://www.youtube.com/channel/UCCPAYZr5GA5Na7KES2qCKWA/videos)
 
+- 📹 [heyDominik](https://www.youtube.com/user/heydominikTV/videos)
+
 - 📹 [Vanessa Lau](https://www.youtube.com/channel/UCdOPzgbosSnbfwd9-iXP2NA/videos)
