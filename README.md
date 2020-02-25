@@ -31,6 +31,8 @@
 
 - 📓 [Instagram Hashtag Strategy Guide](https://later.com/instagram-hashtag-guide/)
 
+- 📺 [How To Find High Performing Secret Instagram Hashtags](https://www.youtube.com/watch?v=8dnvgSGJspw)
+
 ## Influencers
 
 - 📓 [Instagram Influencer Marketing Strategy Guide](https://get.later.com/influencer-marketing-guide/)
