@@ -55,6 +55,8 @@
 
 - 📺 [5 Advanced Instagram Marketing Tips [2020]](https://www.youtube.com/watch?v=jtjo1VvITO8)
 
+- 📺 [25 Instagram Growth Hacks to Double Your Following](https://www.youtube.com/watch?v=NyGkq5_5w8w)
+
 ## Stories
 
 - 📓 [How to Plan an Instagram Stories Campaign](https://get.later.com/instagram-stories-campaign/)
