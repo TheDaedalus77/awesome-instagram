@@ -59,6 +59,10 @@
 
 - 📓 [How to Plan an Instagram Stories Campaign](https://get.later.com/instagram-stories-campaign/)
 
+## Tips
+
+- 📺 [The 5 Minute Rule for Instagram Growth](https://www.youtube.com/watch?v=sLNiIUqAmwQ)
+
 ## Trends
 
 - 📓 [20 Creative Trends Shaping Social in 2019](https://get.later.com/creative-social-media-trends-2019/)
