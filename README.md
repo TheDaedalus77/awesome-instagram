@@ -13,6 +13,10 @@
 
 - 📺 [Advanced Instagram Advertising](https://www.youtube.com/watch?v=u8hnoc0_tlU)
 
+## Algorithm
+
+- 📺 [0-10k Instagram Followers In 2 Weeks Algorithm Hacking](https://www.youtube.com/watch?v=w_cx5W2x-T8)
+
 ## Analytics
 
 - 📓 [Instagram Analytics Strategy Guide](https://get.later.com/instagram-analytics-ebook/)
