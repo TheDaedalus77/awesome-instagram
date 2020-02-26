@@ -77,6 +77,8 @@
 
 - 📹 [Alex Tooby](https://www.youtube.com/channel/UCCPAYZr5GA5Na7KES2qCKWA/videos)
 
+- 📹 [Anthony Groeper](https://www.youtube.com/channel/UC7LvFwYg7f8UccsAZUyts6A/videos)
+
 - 📹 [heyDominik](https://www.youtube.com/user/heydominikTV/videos)
 
 - 📹 [Vanessa Lau](https://www.youtube.com/channel/UCdOPzgbosSnbfwd9-iXP2NA/videos)
