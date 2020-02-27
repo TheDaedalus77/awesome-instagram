@@ -38,6 +38,8 @@
 
 - 📺 [How To Find High Performing Secret Instagram Hashtags](https://www.youtube.com/watch?v=8dnvgSGJspw)
 
+- 🛠 [Hashtastic](https://hashtastic.eu/)
+
 ## Influencers
 
 - 📓 [Instagram Influencer Marketing Strategy Guide](https://get.later.com/influencer-marketing-guide/)
