@@ -5,6 +5,7 @@
 ```
 📖: Article
 📓: Guide
+🛠: Tool
 📺: Video
 📹: Channel
 ```
@@ -42,6 +43,8 @@
 - 📓 [Instagram Influencer Marketing Strategy Guide](https://get.later.com/influencer-marketing-guide/)
 
 - 📺 [Dropshipping Using Instagram Influencers (Free Shopify Traffic)](https://www.youtube.com/watch?v=yBV4KiEZYQM)
+
+- 🛠 [HypeAuditor](https://hypeauditor.com/)
 
 ## Marketing
 
