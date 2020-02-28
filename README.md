@@ -52,6 +52,8 @@
 
 - 🛠 [HypeAuditor](https://hypeauditor.com/)
 
+- 🛠 [Shoutcart](https://shoutcart.com/)
+
 ## Marketing
 
 - 📓 [Instagram for Business in 2019](https://get.later.com/instagram-for-business/)
