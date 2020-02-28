@@ -22,6 +22,8 @@
 
 - 📓 [Instagram Analytics Strategy Guide](https://get.later.com/instagram-analytics-ebook/)
 
+- 🛠 [Social Blade](https://socialblade.com/instagram/)
+
 ## Bots
 
 - 🛠 [Kicksta](https://kicksta.co/)
