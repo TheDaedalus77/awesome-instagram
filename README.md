@@ -32,6 +32,8 @@
 
 - 📓 [How to Take Gorgeous Instagram Photos with Your Phone](https://later.com/blog/instagram-photos/)
 
+- 🛠 [Linktree](https://linktr.ee/)
+
 ## Ecommerce
 
 - 📖 [25 Instagram Marketing Tips Your Ecommerce Strategy Can’t Do Without](https://acquireconvert.com/instagram-marketing-tips/)
