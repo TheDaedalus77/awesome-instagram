@@ -22,6 +22,10 @@
 
 - 📓 [Instagram Analytics Strategy Guide](https://get.later.com/instagram-analytics-ebook/)
 
+## Bots
+
+- 🛠 [Kicksta](https://kicksta.co/)
+
 ## Content
 
 - 📓 [How to Take Gorgeous Instagram Photos with Your Phone](https://later.com/blog/instagram-photos/)
