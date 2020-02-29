@@ -10,6 +10,10 @@
 📹: Channel
 ```
 
+## Official
+
+- [Instagram Business Blog](https://business.instagram.com/blog/)
+
 ## Advertising
 
 - 📺 [Advanced Instagram Advertising](https://www.youtube.com/watch?v=u8hnoc0_tlU)
